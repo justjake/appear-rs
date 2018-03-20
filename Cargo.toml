@@ -1,0 +1,9 @@
+[package]
+name = "appear-rs"
+version = "0.1.0"
+authors = ["Jake Teton-Landis <jake.teton-landis@airbnb.com>"]
+
+[dependencies]
+simple-error = "0.1"
+regex = "0.2"
+lazy_static = ">= 0"
